@@ -1,0 +1,309 @@
+{
+  "updated_at": "2026-07-21T08:24:44.515549Z",
+  "date_from": "2026-07-14",
+  "date_to": "2026-07-21",
+  "total_keywords": 70,
+  "avg_position": 13.1,
+  "top10_count": 48,
+  "movers_up": [
+    {
+      "keyword": "best place for annual dinner in kl",
+      "position": 4,
+      "position_7d_ago": 33,
+      "delta": 29,
+      "volume": 20,
+      "landing_page": "https://whitehouse.estate/best-annual-dinner-venues-in-kuala-lumpur"
+    },
+    {
+      "keyword": "banquet hall",
+      "position": 11,
+      "position_7d_ago": 22,
+      "delta": 11,
+      "volume": 1600,
+      "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+    },
+    {
+      "keyword": "nice banquet hall",
+      "position": 27,
+      "position_7d_ago": 37,
+      "delta": 10,
+      "volume": 590,
+      "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+    },
+    {
+      "keyword": "wedding place",
+      "position": 35,
+      "position_7d_ago": 40,
+      "delta": 5,
+      "volume": 260,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    },
+    {
+      "keyword": "wedding dinner",
+      "position": 59,
+      "position_7d_ago": 64,
+      "delta": 5,
+      "volume": 480,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    },
+    {
+      "keyword": "space to rent for event",
+      "position": 1,
+      "position_7d_ago": 5,
+      "delta": 4,
+      "volume": 390,
+      "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+    },
+    {
+      "keyword": "restaurants event space",
+      "position": 32,
+      "position_7d_ago": 35,
+      "delta": 3,
+      "volume": 140,
+      "landing_page": "https://whitehouse.estate/top-10-private-event-spaces-in-kl-for-exclusive-corporate-gatherings"
+    },
+    {
+      "keyword": "film location rentals",
+      "position": 6,
+      "position_7d_ago": 9,
+      "delta": 3,
+      "volume": 10,
+      "landing_page": "https://whitehouse.estate/a-practical-guide-to-renting-a-house-for-film-commercial-production-in-malaysia/"
+    }
+  ],
+  "movers_down": [
+    {
+      "keyword": "wedding venues malaysia",
+      "position": 64,
+      "position_7d_ago": 55,
+      "delta": -9,
+      "volume": 390,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    },
+    {
+      "keyword": "garden wedding",
+      "position": 25,
+      "position_7d_ago": 17,
+      "delta": -8,
+      "volume": 1000,
+      "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+    },
+    {
+      "keyword": "wedding garden",
+      "position": 22,
+      "position_7d_ago": 14,
+      "delta": -8,
+      "volume": 360,
+      "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+    },
+    {
+      "keyword": "Hari raya private space",
+      "position": 12,
+      "position_7d_ago": 6,
+      "delta": -6,
+      "volume": 0,
+      "landing_page": "https://whitehouse.estate/blog/how-to-host-the-perfect-raya-open-house-a-guide-to-professional-hosting-at-federal-hill"
+    },
+    {
+      "keyword": "wedding hall malaysia",
+      "position": 64,
+      "position_7d_ago": 59,
+      "delta": -5,
+      "volume": 480,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    },
+    {
+      "keyword": "annual dinner event",
+      "position": 26,
+      "position_7d_ago": 21,
+      "delta": -5,
+      "volume": 30,
+      "landing_page": "https://whitehouse.estate/best-annual-dinner-venues-in-kuala-lumpur"
+    },
+    {
+      "keyword": "annual dinner theme ideas malaysia",
+      "position": 28,
+      "position_7d_ago": 23,
+      "delta": -5,
+      "volume": 140,
+      "landing_page": "https://whitehouse.estate/blog/top-annual-dinner-venue-in-kl-unique-themes-hassle-free-planning"
+    },
+    {
+      "keyword": "wedding venue malaysia",
+      "position": 46,
+      "position_7d_ago": 43,
+      "delta": -3,
+      "volume": 390,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "banquet hall",
+      "position": 11,
+      "position_7d_ago": 22,
+      "delta": 11,
+      "volume": 1600,
+      "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+    },
+    {
+      "keyword": "garden wedding",
+      "position": 25,
+      "position_7d_ago": 17,
+      "delta": -8,
+      "volume": 1000,
+      "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+    },
+    {
+      "keyword": "annual dinner",
+      "position": 26,
+      "position_7d_ago": 25,
+      "delta": -1,
+      "volume": 990,
+      "landing_page": "https://whitehouse.estate/best-annual-dinner-venues-in-kuala-lumpur"
+    },
+    {
+      "keyword": "nice banquet hall",
+      "position": 27,
+      "position_7d_ago": 37,
+      "delta": 10,
+      "volume": 590,
+      "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+    },
+    {
+      "keyword": "event wedding",
+      "position": 29,
+      "position_7d_ago": 31,
+      "delta": 2,
+      "volume": 480,
+      "landing_page": "https://whitehouse.estate/weddings/"
+    },
+    {
+      "keyword": "wedding garden",
+      "position": 22,
+      "position_7d_ago": 14,
+      "delta": -8,
+      "volume": 360,
+      "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+    },
+    {
+      "keyword": "outdoor weddings",
+      "position": 28,
+      "position_7d_ago": 29,
+      "delta": 1,
+      "volume": 320,
+      "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+    },
+    {
+      "keyword": "launching event",
+      "position": 22,
+      "position_7d_ago": 19,
+      "delta": -3,
+      "volume": 210,
+      "landing_page": "https://whitehouse.estate/how-to-plan-a-successful-launch-event"
+    }
+  ],
+  "selected": {
+    "total": 12,
+    "top10_count": 6,
+    "avg_position": 22.0,
+    "keywords": [
+      {
+        "keyword": "event hall kuala lumpur",
+        "position": 3,
+        "position_7d_ago": 3,
+        "delta": 0,
+        "volume": 390,
+        "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+      },
+      {
+        "keyword": "event space",
+        "position": 3,
+        "position_7d_ago": 3,
+        "delta": 0,
+        "volume": 2900,
+        "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+      },
+      {
+        "keyword": "event hall",
+        "position": 4,
+        "position_7d_ago": 3,
+        "delta": -1,
+        "volume": 1300,
+        "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+      },
+      {
+        "keyword": "space for event",
+        "position": 4,
+        "position_7d_ago": 4,
+        "delta": 0,
+        "volume": 540,
+        "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+      },
+      {
+        "keyword": "rental space event",
+        "position": 5,
+        "position_7d_ago": 5,
+        "delta": 0,
+        "volume": 480,
+        "landing_page": "https://whitehouse.estate/top-20-event-spaces-in-kl-for-rent-in-2025"
+      },
+      {
+        "keyword": "heritage building",
+        "position": 9,
+        "position_7d_ago": 6,
+        "delta": -3,
+        "volume": 480,
+        "landing_page": "https://whitehouse.estate/historic-buildings-in-malaysia"
+      },
+      {
+        "keyword": "launching event",
+        "position": 22,
+        "position_7d_ago": 19,
+        "delta": -3,
+        "volume": 210,
+        "landing_page": "https://whitehouse.estate/how-to-plan-a-successful-launch-event"
+      },
+      {
+        "keyword": "garden wedding",
+        "position": 25,
+        "position_7d_ago": 17,
+        "delta": -8,
+        "volume": 1000,
+        "landing_page": "https://whitehouse.estate/blog/the-best-wedding-venue-in-kl-that-offers-both-outdoor-gardens-and-indoor-elegance"
+      },
+      {
+        "keyword": "wedding place",
+        "position": 35,
+        "position_7d_ago": 40,
+        "delta": 5,
+        "volume": 260,
+        "landing_page": "https://whitehouse.estate/weddings/"
+      },
+      {
+        "keyword": "wedding venue",
+        "position": 44,
+        "position_7d_ago": 44,
+        "delta": 0,
+        "volume": 2400,
+        "landing_page": "https://whitehouse.estate/weddings/"
+      },
+      {
+        "keyword": "wedding venue malaysia",
+        "position": 46,
+        "position_7d_ago": 43,
+        "delta": -3,
+        "volume": 390,
+        "landing_page": "https://whitehouse.estate/weddings/"
+      },
+      {
+        "keyword": "wedding hall malaysia",
+        "position": 64,
+        "position_7d_ago": 59,
+        "delta": -5,
+        "volume": 480,
+        "landing_page": "https://whitehouse.estate/weddings/"
+      }
+    ]
+  }
+}
